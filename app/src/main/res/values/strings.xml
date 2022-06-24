@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewNavigation</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="button1">Página 2</string>
+    <string name="button2">Página 3</string>
+</resources>
